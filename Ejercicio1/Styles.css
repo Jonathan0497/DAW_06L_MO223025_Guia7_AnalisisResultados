@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.image-container {
+    margin: 20px auto;
+    margin-top: 8%;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+}
+
+.controls {
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
